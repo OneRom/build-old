@@ -103,7 +103,7 @@ include $(BUILD_SYSTEM)/config.mk
 include $(BUILD_SYSTEM)/cleanbuild.mk
 
 # Bring in Qualcomm helper macros
-include $(BUILD_SYSTEM)/qcom_utils.mk
+-include $(BUILD_SYSTEM)/qcom_utils.mk
 
 # Include the google-specific config
 -include vendor/google/build/config.mk
