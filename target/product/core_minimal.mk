@@ -23,7 +23,7 @@ PRODUCT_DEVICE := generic
 PRODUCT_NAME := core
 
 PRODUCT_PACKAGES += \
-	aapt \
+    aapt \
     BackupRestoreConfirmation \
     DownloadProvider \
     HTMLViewer \
